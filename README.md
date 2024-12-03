@@ -3,7 +3,7 @@
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently a Program Assistant Intern at The Aquaculture Consortium handling Web Development and Graphic Design
 - 💞️ I’m looking to collaborate on any area of software development
-- 📫 How to reach me laura@aquacultureconsortium.com
+- 📫 How to reach me laura@aquacultureconsortium.com/lauraokode@gmail.com
 - 😄 Pronouns: She/Her
 
 <!---
